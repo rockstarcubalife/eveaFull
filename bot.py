@@ -10,7 +10,6 @@ import requests
 import config
 import mediafire
 import googledrive
-from mega import Mega
 import zipfile
 import youtube_dl
 import vdirect
